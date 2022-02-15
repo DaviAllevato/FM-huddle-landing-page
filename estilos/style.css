@@ -31,7 +31,7 @@ body{
     color: white;
     text-align: left;
     background-color: var(--cor-fundo);
-    background-image: url("/imagens/bg-desktop.svg");
+    background-image: url("../imagens/bg-desktop.svg");
     background-repeat: no-repeat;
     background-size: 80vw 112vh;
     padding: 30px 25px 0px 25px;
@@ -166,7 +166,7 @@ footer a:hover{
 
 @media screen and (max-width:500px){
     body{
-        background-image: url("/imagens/bg-mobile.svg");
+        background-image: url("../imagens/bg-mobile.svg");
         background-size: contain;
     }
 
