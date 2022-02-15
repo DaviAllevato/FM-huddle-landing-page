@@ -35,8 +35,9 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: []()
-- URL do site ao vivo: []()
+- URL da solução: [https://www.frontendmentor.io/solutions/huddle-landing-page-NBanvzvOZ](https://www.frontendmentor.io/solutions/huddle-landing-page-NBanvzvOZ)
+
+- URL do site ao vivo: [https://daviallevato.github.io/FM-huddle-landing-page/](https://daviallevato.github.io/FM-huddle-landing-page/)
 
 ## Meu processo
 
